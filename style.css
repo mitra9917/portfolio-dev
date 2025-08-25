@@ -239,6 +239,14 @@ section{
 }
 
 /* ICONS */
+#icon-dk{
+    height:2rem;
+    width:2rem;
+    cursor:pointer;
+    vertical-align:middle;
+    margin-left:1rem;
+}
+
 .icon{
     margin-top:1rem;
     margin-right:12px;
